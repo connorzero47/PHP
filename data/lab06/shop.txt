@@ -1,0 +1,6 @@
+Apple,5
+eggs,5
+soap,11
+corn,66
+egg,66
+

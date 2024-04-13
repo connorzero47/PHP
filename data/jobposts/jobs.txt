@@ -1,0 +1,12 @@
+PID0001	CEO IT	Head of IT	09/09/23	Part Time	On-going	Post, Email	Any
+PID0002	CEO Marketing	Head of Marketing	11/09/23	Full Time	Fixed term	Post, Email	Any
+PID0005	Human Resource	Hiring staff	20/09/23	Full Time	On-going	Post, Email	QLD
+PID0003	Customer Service	Help customers with purchases and other services in store	20/11/23	Part Time	Fixed term	Post, Email	VIC
+PID0004	Customer Agent	Help customers with purchases and other services in store	22/11/22	Part Time	Fixed term	Email	VIC
+PID0006	Assistant Manager	2nd in command of the entire store operation	06/09/23	Full Time	On-going	Post, Email	WA
+PID1234	IT manager	Test	12/09/23	Full Time	On-going	Post, Email	Any
+PID1111	Senior IT manager	Test	12/09/23	Part Time	Fixed term	Post, Email	ACT
+PID2222	Junior IT manager	Test	12/12/23	Full Time	Fixed term	Post, Email	ACT
+PID3333	Junior IT officer	Test	12/10/23	Part Time	On-going	Post, Email	ACT
+PID4444	Junior IT admin	Test	12/11/23	Full Time	On-going	Post, Email	NSW
+PID5555	Junior admin	Test	30/11/23	Part Time	On-going	Post, Email	NSW
